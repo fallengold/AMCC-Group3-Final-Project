@@ -1,0 +1,50 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl material
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7009299624853316
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material.png
+
+newmtl material_1
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9441368890185993
+Pds 1
+Pl 1
+Pccns 11
+Prfl 0.5
+Pior 1.5
+Pshc 0 0 0
+Pshr 1
+Psi 1
+Psc 1 1 1
+Ptr 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd material_1.png
+norm normalMap2.png
+map_Ptrm transmissionMap2.png
+
+newmtl material_2
+Tr 0.9800494318078179
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.11115316564215749
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0 0
+Ke 0.7467212666216734 0.7467212666216734 0.7467212666216734
+map_Kd material_2.png
+map_Ke emissiveMap3.png
+map_Pm metalnessMap3.png
+map_Pr metalnessMap3.png
